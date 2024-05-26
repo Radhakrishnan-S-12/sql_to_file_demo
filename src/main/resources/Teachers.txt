@@ -1,0 +1,2 @@
+TEACHER_Id - 1, TEACHER_NAME - Radhakrishnan, TEACHER_EMAIL - radkrish@gmail.com, CLASS_Id - 1, CLASS_NAME - Computer Science, CLASS_CODE - CS101, NUMBER_OF_STUDENTS - 50
+TEACHER_Id - 2, TEACHER_NAME - Jayanthi, TEACHER_EMAIL - jay@gmail.com, CLASS_Id - 2, CLASS_NAME - Maths, CLASS_CODE - MTH101, NUMBER_OF_STUDENTS - 50
